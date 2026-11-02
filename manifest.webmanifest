@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "3K Jewelry Store - حسابات الذهب",
+  "short_name": "3K Jewelry",
+  "description": "نظام 3K لإدارة فواتير الذهب والعملاء والمخزون محليًا أو عبر حسابات المستخدمين.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f1",
+  "theme_color": "#101a19",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
